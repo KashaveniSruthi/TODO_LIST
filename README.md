@@ -1,8 +1,8 @@
-TO-DO List
+**TO-DO List**
 
 A simple and visually appealing Todo App to manage tasks efficiently. This application is built with HTML, CSS, and JavaScript, featuring functionalities such as adding, editing, completing, and deleting tasks. The app also includes a progress bar that updates dynamically as tasks are completed.
 
-Features
+**Features**
 
 Add Tasks: Easily add new tasks to your list.
 Mark as Complete: Mark tasks as completed, which visually updates the task list.
@@ -13,7 +13,7 @@ Responsive Design: Works well on various screen sizes.
 File Structure
 index.html: The main HTML structure of the application. style.css: The styling file that defines the look and feel of the application. app.js: The JavaScript logic that implements the functionality of the app.
 
-How It Works
+**How It Works**
 Adding a Task: Type a task in the input field and click the "+" button to add it to the list.
 
 Marking as Complete: Click the checkbox next to a task to mark it as complete. The task will be visually updated, and the progress bar will adjust accordingly.
