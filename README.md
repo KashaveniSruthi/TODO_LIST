@@ -5,11 +5,17 @@ A simple and visually appealing Todo App to manage tasks efficiently. This appli
 **Features**
 
 Add Tasks: Easily add new tasks to your list.
+
 Mark as Complete: Mark tasks as completed, which visually updates the task list.
+
 Edit Tasks: Edit the text of any task.
+
 Delete Tasks: Remove tasks from the list.
+
 Progress Tracking: A progress bar dynamically updates to show the percentage of completed tasks.
+
 Responsive Design: Works well on various screen sizes.
+
 File Structure
 index.html: The main HTML structure of the application. style.css: The styling file that defines the look and feel of the application. app.js: The JavaScript logic that implements the functionality of the app.
 
