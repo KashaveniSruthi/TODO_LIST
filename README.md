@@ -20,7 +20,9 @@ Responsive Design: Works well on various screen sizes.
 
 index.html: The main HTML structure of the application.
 
-style.css: The styling file that defines the look and feel of the application. app.js: The JavaScript logic that implements the functionality of the app.
+style.css: The styling file that defines the look and feel of the application.
+
+app.js: The JavaScript logic that implements the functionality of the app.
 
 **How It Works**
 Adding a Task: Type a task in the input field and click the "+" button to add it to the list.
